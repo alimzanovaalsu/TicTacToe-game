@@ -1,4 +1,4 @@
 # TicTacToe-game
 
 ##  Goal
-Basic TicTaeToe game , between user and computer
+Basic TicTacToe game , between user and computer
