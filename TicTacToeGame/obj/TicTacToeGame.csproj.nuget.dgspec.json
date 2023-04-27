@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\TicTacToeGame\\TicTacToeGame.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\BoardLogic\\BoardLogic.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\BoardLogic\\BoardLogic.csproj",
+        "projectName": "BoardLogic",
+        "projectPath": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\BoardLogic\\BoardLogic.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\TicTacToeGame\\TicTacToeGame.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\TicTacToeGame\\TicTacToeGame.csproj",
+        "projectName": "TicTacToeGame",
+        "projectPath": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\TicTacToeGame\\TicTacToeGame.csproj",
+        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\TicTacToeGame\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\BoardLogic\\BoardLogic.csproj": {
+                "projectPath": "C:\\Users\\USER\\Desktop\\University\\3rd course, 1st semester\\Object oriented design\\TicTacToeGame\\BoardLogic\\BoardLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.25, 3.1.25]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
